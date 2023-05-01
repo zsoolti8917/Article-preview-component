@@ -232,7 +232,6 @@ body {
         border-radius: 1rem;
     }
     .content__author-view-share::after {
-        content: "";
         position: absolute;
         top: 100%;
         left: 50%;
